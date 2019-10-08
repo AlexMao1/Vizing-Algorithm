@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Edge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\adj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Boolean.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\allocators.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\cursorstreamwrapper.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\document.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\encodedstream.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\encodings.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\error\en.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\error\error.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\filereadstream.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\filewritestream.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\fwd.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\biginteger.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\diyfp.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\dtoa.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\ieee754.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\itoa.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\meta.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\pow10.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\regex.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\stack.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\strfunc.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\strtod.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\internal\swap.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\istreamwrapper.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\memorybuffer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\memorystream.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\msinttypes\inttypes.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\msinttypes\stdint.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\ostreamwrapper.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\pointer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\prettywriter.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\rapidjson.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\reader.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\schema.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\stream.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\stringbuffer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Vizing%27s Algorithm\Vizing%27s Algorithm\VizingAlgorithmAnimation\Vizing%27s Algorithm\Resources\rapidjson\writer.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

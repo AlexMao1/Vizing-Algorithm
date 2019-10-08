@@ -14,5 +14,5 @@ Alternatively, download complete builds from [here](https://github.com/zyyhhxx/V
 Run the built project executable. 
 
 ## Credit
-Alex Mao implemented the C++ backend version of Vizing's Algorithm.
+Alex Mao implemented the C++ backend version of Vizing's Algorithm.\n
 Yiyang Zeng implemented the Unity animation of Vizing's Algorithm.
